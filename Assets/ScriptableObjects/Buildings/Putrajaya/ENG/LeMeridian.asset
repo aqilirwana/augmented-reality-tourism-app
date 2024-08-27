@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2df0280c934b48bebc9a2fa0690d88c, type: 3}
+  m_Name: LeMeridian
+  m_EditorClassIdentifier: 
+  mainImage: {fileID: 21300000, guid: 849bf10416ec7493099644862f92eb5d, type: 3}
+  name: Le Meridian
+  attributes:
+  - attributeName: Location
+    attributeDetails: "Located in Serdang, Le M\xE9ridien Putrajaya is connected
+      to a shopping center, a 2-minute drive from IOI City Mall and 6 minutes from
+      Alamanda Putrajaya. This 5-star hotel is 3.7 mi (5.9 km) from Putrajaya Wetlands
+      Park and 3.9 mi (6.3 km) from Malaysia Agro Exposition Park Serdang."
+  - attributeName: Check In & Check Out
+    attributeDetails: 'Check-in: after 15:00<br>Check-out: before 12:00'
+  - attributeName: For Children
+    attributeDetails: Kids' club & kids' pool
+  - attributeName: General Facilities
+    attributeDetails: "\u2022 Terrace <br>\u2022 Facilities for disabled guests <br>\u2022
+      Lift <br>\u2022 Non-smoking throughout <br>\u2022 Wedding pavilion"
+  - attributeName: Guest Services
+    attributeDetails: "\u2022 24-hour front desk <br>\u2022 Concierge service <br>\u2022
+      Express check-in/check-out <br>\u2022 Luggage storage <br>\u2022 Safety deposit
+      box <br>\u2022 Newspapers"
+  - attributeName: Business Facilities
+    attributeDetails: "\u2022 Business centre<br>\u2022 Conference hall"
+  - attributeName: Features
+    attributeDetails: "\u2022 Room only <br>\u2022 Breakfast included <br>\u2022
+      Non-refundable <br>\u2022 Free cancellation"
+  - attributeName: Room
+    attributeDetails: "\u2022 Guest Room,2 Twin/\u200B Single <br>\u2022 Guest Room,1
+      King Bed <br>\u2022 Larger Guest Room,1 Twin Bed and 1 King Bed <br>\u2022
+      Guest Room,1 King Bed, Club Lounge Access <br>\u2022 Suite,1 King Bed, Club
+      Lounge Access <br>\u2022 Large Suite,1 King Bed, Club Lounge Access <br>\u2022
+      Le Meridien Suite,1 King Bed, Club Lounge Access <br>\u2022 Presidential Suite,1
+      King Bed, Club Lounge Access"
+  - attributeName: Others
+    attributeDetails: "\u2022 All halal food <br>\u2022 Alcohol free room <br>\u2022
+      Wellness and spa private hire"

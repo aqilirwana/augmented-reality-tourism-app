@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2df0280c934b48bebc9a2fa0690d88c, type: 3}
+  m_Name: MasjidPutra
+  m_EditorClassIdentifier: 
+  mainImage: {fileID: 21300000, guid: 4dfb0c9006f49415c88927e18117c9e9, type: 3}
+  name: Masjid Putra
+  attributes:
+  - attributeName: Location
+    attributeDetails: Persiaran Persekutuan, Presint 1, 62502 Putrajaya, Wilayah
+      Persekutuan Putrajaya
+  - attributeName: Operation Hours
+    attributeDetails: N/A
+  - attributeName: Background
+    attributeDetails: "Named after Malaysia\u2019s first Prime Minister, Tunku Abdul
+      Rahman Putra Al Haj, Masjid Putra with its trademark pink domes is one of Putrajaya\u2019s
+      popular landmarks. Surrounded by Putrajaya Lake and facing Putra Square \u2013
+      two other popular attractions in Putrajaya \u2013 the mosque was built between
+      1997 and 1999. The mosque is modelled after the Persian Islamic architecture
+      of the Safavid period, with some design elements borrowed from other mosques
+      around the world. Its basement wall is reminiscent of the one in Morocco\u2019s
+      King Hassan Mosque, while its 116-metre minaret resembles that of the Sheikh
+      Omar Mosque in Baghdad, Iraq. Masjid Putra consists of three main areas \u2013
+      a 12-column main prayer hall, a landscaped courtyard named The Sahn and an
+      area housing a religious learning centre and function rooms. The mosque can
+      accommodate 15,000 worshippers at a time. The Masjid Putra, commonly known
+      as the \u2018Pink Mosque\u2019 on account of its rose-tinted granite structure
+      and striking pink domes, is undoubtedly the most iconic structure in Putrajaya
+      besides the green onion- domed building of Perdana Putra, the Prime Minister\u2019s
+      Office. Situated on the edge of a man-made lake, the mosque is amongst a number
+      of modern architectural marvels in the \u2018Garden Intelligent City\u2019
+      of Putrajaya. The mosque\u2019s monumental dome, clad in glazed pink tiles,
+      pointed clerestory windows and soaring geometrical minaret is a culmination
+      of various Islamic architectural influences. In contrast to the Masjid Negara
+      in Kuala Lumpur, Masjid Putra exudes clear expressions of multiple Islamic
+      architectural elements originating from the Middle-East. The imposing nature
+      of the mosque is expressed through three main elements, which are the grand
+      mosque\u2019s structure, courtyard or sahn and the 116 metres (380 feet) minaret.
+      Despite enjoying its strong and imposing image, sahn has been used as a transition
+      space between the outer world and religious realms. This has also been demarcated
+      by a monumental arched portal. The Masjid Putra is sited fronting the large
+      Putra Square, and the man-made lagoon is connected from the public square\u2019s
+      level of the promenade in a sloping nature, with waterfront landscaped gardens
+      beautifying the area. It is linked to the Putrajaya Boulevard and commercial
+      district of Precinct 2 through the Persian-inspired Putra Bridge. At the promenade,
+      the Souq Putrajaya with various eatery places and shops are provided, with
+      a basement level entrance of the mosque. In addition to the main pink dome,
+      eight smaller pink domes with similar patterns are distributed across the cupolas
+      of the main prayer hall building. They flank the main dome which sits on an
+      octagonal tier above a flat roof. The square layout of the main prayer hall
+      is richly crafted with intricate decorations in the Islamic tradition. Every
+      single angle and corner is embellished with floral and decorative motifs. Twelve
+      columns span the space, forming pointed arches across the hall. The prayer
+      hall is surrounded by a glass wall that provides an indirect source of natural
+      lighting to illuminate the interior spaces. The front qibla wall is finished
+      by floral plaster motifs on the each side of the mihrab, and diamond-shaped
+      windows. The mihrab, placed in the centre of the three-segmented qibla wall,
+      comprises a square frame supported by pilasters before the niche, which sits
+      under a smaller arch. The marble frame is adorned with calligraphic inscriptions.
+      The stairs of the elevated wooden minbar lead to a pulpit platform topped with
+      a dome embellished in gold;"
+  - attributeName: Facilities
+    attributeDetails: "\u2022 PRINCIPAL SUBMISSION<br>\u2022 WOMAN WORKSHOP<br>\u2022
+      SAHN HIJJAZ<br>\u2022 SAHN KUFAH<br>\u2022 SHOPPING US BUSINESS COLLECTIONS
+      SIDDIQ<br>\u2022 ALI ABI THALIB COLLEGE<br>\u2022 UTHMAN AFFAN COMPUTER LAB<br>\u2022
+      THE MESSUARAT OF UMAR ABDUL AZIZ<br>\u2022 AL KHAWARIZMI LIBRARY<br>\u2022
+      FOODS OF MA\u2019IDATUL RAHMAN<br>\u2022 AUDITORIUM IN CHINA<br>\u2022 EATING
+      SHOP IN THE HALLDUN"

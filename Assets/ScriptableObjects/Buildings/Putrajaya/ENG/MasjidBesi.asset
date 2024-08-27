@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2df0280c934b48bebc9a2fa0690d88c, type: 3}
+  m_Name: MasjidBesi
+  m_EditorClassIdentifier: 
+  mainImage: {fileID: 21300000, guid: 89074f20d8c7c4f8eb7206ede56365b4, type: 3}
+  name: Masjid Tuanku Mizan Zainal Abidin
+  attributes:
+  - attributeName: Location
+    attributeDetails: 25, Jalan Tuanku Abdul Rahman, Presint 3, 62100 Putrajaya,
+      Wilayah Persekutuan Putrajaya
+  - attributeName: Operation Hours
+    attributeDetails: "Monday (5:25\u202FAM \u201310:25\u202FPM)<br>Tuesday (5:25\u202FAM
+      \u2013 10:25\u202FPM)<br>Wednesday (5:00\u202FAM \u2013 10:00\u202FPM)<br>Thursday
+      (5:00\u202FAM \u2013 10:00\u202FPM)<br>Friday (5:00\u202FAM \u2013 10:00\u202FPM)<br>Saturday
+      (5:25\u202FAM \u2013 10:25\u202FPM)<br>Sunday (5:00\u202FAM \u201310:00\u202FPM)"
+  - attributeName: Background
+    attributeDetails: "Masjid Tuanku Mizan Zainal Abidin was named after the country\u2019s
+      13th Yang Di-Pertuan Agong (King of Malaysia) at that time, Al-Wathiqu Billah
+      Tuanku Mizan Zainal Abidin Ibni Al-Marhum Sultan Mahmud Al-Muktafi Billah Shah.
+      Able to fit up to 20,000 worshippers at a time, it began construction in April
+      2004 and was completed in August 2009. The mosque was built out of 6000 tonnes
+      of reinforced stainless steel which makes up 70 percent of its structure, earning
+      it the moniker, Steel Mosque. A walkway named Qibla Walk connects the mosque
+      to the nearby Putrajaya Corporation Complex. Employing a light, airy and transparent
+      design concept, the mosque relies on natural ventilation and an air-cooling
+      technology called \u2018Gas District Cooling\u2019 to ensure that the air within
+      the building stays cool even without the use of fans or air conditioners. Lattice
+      screens made from stainless steel surround its main prayer hall in place of
+      walls, allowing free flow of air. Thirteen-metre glass panels imported from
+      Germany, on which verses from the Holy Qur\u2019an are engraved, adorn its
+      interior, giving the impression of \u2018floating verses\u2019. Unlike most
+      mosques in the country, Masjid Tuanku Mizan Zainal Abidin didn\u2019t borrow
+      design ideas from the Middle East, but instead adopts a combination of Chinese
+      and German architectural styles. And unlike most mosques, it doesn\u2019t come
+      with a minaret (Islamic Tourism Centre, 2013). The Steel Mosque is situated
+      in a beautiful lakeside setting close to the offices of the Malaysian government
+      administrative buildings in Putrajaya. As the second principal mosque after
+      the Putra Mosque, located near the Prime Minister\u2019s office, this mosque
+      has become a significant landmark and tourist attraction in Putrajaya. The
+      mosque has been rewarded with several awards, namely the Malaysian Institute
+      of Architects (PAM) Steel Awards 2011 for Interior Category and the Schott
+      Architectural Glass Award 2006.   The mosque\u2019s most peculiar feature is
+      the \u2018iron\u2019 materials (steel and metal), which is employed extensively
+      in its design: 70 per cent of the building materials are stainless steel. Its
+      striking mesh facilitates daylight and natural ventilation into the mosque,
+      thus eliminating the need for any artificial lighting or mechanical ventilation.
+      The mesh element, known as mashrabiya screen, gives the mosque\u2019s exterior
+      a \u2018filigree\u2019 appearance. The deep overhang of the main building supported
+      by tall arched steel columns feature the design that reflects elements of traditional
+      Islamic architecture. Pointed arches used at the side aisles and naves of the
+      prayer hall interior have resulted in a very high and lofty ceiling.   The
+      vastness of the space contributes to the sense of humility and modesty to the
+      worshippers, thus creating a tranquil, calm, ethereal space for praying.The
+      passive cooling concept is also attributed to the materials used in the mosque\u2019s
+      construction, including the marble flooring and the steel mesh that is used
+      to cool the perimeter wall covering of its facade. The mesh \u2018screens\u2019
+      act as a shelter to protect the interior from the rain and direct sunlight.
+      The high-volume space of the hall not only gives a monumental grandeur, but
+      also enhances both the natural lighting and ventilation. The qibla wall, directly
+      facing the lake is opened to the elements. It is indicated by a huge square
+      portal. The wall comprises entirely of large panels of anti-reflective glass
+      inscribed with Nasakh calligraphy. The mihrab is formed by a small, tiered,
+      square portal finished with white glazed tiles. The seamlessly plain form combines
+      perfectly with an elevated marble minbar to its right. The minbar is connected
+      by a flight of stairs placed in front to its right and leads upwards to the
+      domed pulpit platform."
+  - attributeName: Facilities
+    attributeDetails: "\u2022 Elevator  <br>\u2022 Foyer  <br>\u2022 Corridor  <br>\u2022
+      Stairs  <br>\u2022 Moving stairs (Escalator)  <br>\u2022 Visitor Counter  <br>\u2022
+      Dining/Kitchen  <br>\u2022 Technical/Utility Rooms  <br>\u2022 Visual Audio
+      Control Room  <br>\u2022 Priest/Bilal waiting room  <br>\u2022 Man's Room (VVIP) 
+      <br>\u2022 Honorary Guest Room (VIP)  <br>\u2022 Body Management Room  <br>\u2022
+      Mosque Administration Office  <br>\u2022 Building Maintenance Office  <br>\u2022
+      Parking Roofed Vehicles"

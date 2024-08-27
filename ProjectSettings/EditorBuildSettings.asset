@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: c7ac408c35f2646b9921a889602e7b38
+  - enabled: 1
+    path: Assets/Scenes/Home - Arabic.unity
+    guid: 17c039567a6e04cefbb08dbc342092c3
+  - enabled: 1
+    path: Assets/Scenes/Putrajaya.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Putrajaya - Arabic.unity
+    guid: b75497d47f8df449cbf605461a6510fe
+  - enabled: 1
+    path: Assets/Scenes/BukitTinggi.unity
+    guid: 59016163800b44bee9fc65ef069bffd0
+  - enabled: 1
+    path: Assets/Scenes/BukitTinggi - Arabic.unity
+    guid: e06da597096e3429c87afa12584611dc
+  m_configObjects:
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 181a98d02044c46d8ac1d28a926a1be0, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: d20621f68724e40bb992b1fe9d40796b, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b2399169ae9384467b7990a82a4644cf, type: 2}

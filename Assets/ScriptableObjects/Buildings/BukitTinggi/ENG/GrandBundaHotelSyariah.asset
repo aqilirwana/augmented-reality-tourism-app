@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2df0280c934b48bebc9a2fa0690d88c, type: 3}
+  m_Name: GrandBundaHotelSyariah
+  m_EditorClassIdentifier: 
+  mainImage: {fileID: 21300000, guid: 76408f8051445456caba4620b6ac6070, type: 3}
+  name: Grand Bunda Hotel Syariah
+  attributes:
+  - attributeName: Location
+    attributeDetails: Grand Bunda Hotel Shariah Bukittinggi is located in the area
+      / city of Guguk Long.  There are many tourist attractions nearby, for example
+      Gandoriah Beach in 45.59 km, and Pariaman City Grand Mosque in 45.56 km
+  - attributeName: Check In & Check Out
+    attributeDetails: 'Check-in: from 14:00<br>Check-out: before 12:00'
+  - attributeName: About
+    attributeDetails: 'Grand Bunda Hotel Syariah Bukittinggi is highly recommended
+      for travellers who want to get a proper and comfortable accommodation at the
+      same time.   For those of you who want to travel comfortably on a budget basis,
+      Grand Bunda Hotel Syariah Bukittinggi is the perfect place to stay with good
+      facilities and great service.   Whether you''re planning a single event or
+      another special event, Grand Bunda Hotel Shariah Bukittinggi is the perfect
+      place for you with a large and versatile meeting room to meet your needs.  
+      This hotel is a perfect place for couples looking for a romantic holiday or
+      honeymoon. Enjoy memorable nights with your loved ones by staying at Grand
+      Bunda Hotel Syariah Bukittinggi.  Like shopping? A stay at Grand Bunda Hotel
+      Syariah Bukittinggi will delight you as there are many shopping malls nearby.  
+      From business events to corporate gatherings, Grand Bunda Hotel Shariah Bukittinggi
+      provides the complete service and facilities you and your colleagues need.  
+      Enjoy a wide range of entertainment facilities available for you and the whole
+      family at Grand Bunda Hotel Syariah Bukittinggi, a pleasant accommodation for
+      your family vacation.   If you plan to stay in the long term, Grand Bunda Hotel
+      Shariah Bukittinggi is the perfect choice for you. With a wide range of amenities
+      and excellent quality of service, this accommodation will make you feel at
+      home. '
+  - attributeName: Services
+    attributeDetails: 'The range of facilities provided will keep you satisfied throughout
+      your stay at Grand Bunda Hotel Shariah Bukittinggi.   A 24-hour front desk
+      is available to provide service to you, from logging in to logging out, or
+      any help you need. If you want more, do not hesitate to ask at the front desk,
+      we are always ready to meet your request.   Enjoy your favorite dishes with
+      special dishes from Grand Bunda Hotel Shariah Bukittinggi exclusive to you.
+      WiFi access is available in the public areas of this accommodation so that
+      you are always connected with family and friends.  Grand Bunda Hotel Syariah
+      Bukittinggi is a hotel that offers great comfort and the best service according
+      to most guests of this hotel. With all the amenities offered, Grand Bunda Hotel
+      Syariah Bukittinggi is a great place to stay. '
+  - attributeName: Public Facilities
+    attributeDetails: "\u2022 Parking  <br>\u2022 Early login  <br>\u2022 24-hour
+      room order  <br>\u2022 Restaurant  <br>\u2022 Breakfast restaurant  <br>\u2022
+      Room Order  <br>\u2022 WiFi in public areas "
+  - attributeName: General
+    attributeDetails: "\u2022 Air Conditioning  <br>\u2022 Chanting room  <br>\u2022
+      Family Room  <br>\u2022 Heater  <br>\u2022 Non-smoking room  <br>\u2022 Smoking
+      free"
+  - attributeName: Hotel Service
+    attributeDetails: "\u2022 Front desk  <br>\u2022 24-hour guest reception  <br>\u2022
+      24-hour security  <br>\u2022 Drawing Service  <br>\u2022 Luggage storage "
+  - attributeName: Food and Drinks
+    attributeDetails: "\u2022 Restaurant with air conditioning  <br>\u2022 Buffet
+      breakfast  <br>\u2022 Hot breakfast  <br>\u2022 No alcohol "
+  - attributeName: Room Facilities
+    attributeDetails: "\u2022 TV Cable  <br>\u2022 Counter  <br>\u2022 Shower shutters"
+  - attributeName: Transportation
+    attributeDetails: "\u2022 Car rental  <br>\u2022 Safe Parking"
+  - attributeName: OKU Facilities
+    attributeDetails: "\u2022 Easy access  <br>\u2022 Wheelchair Access "
+  - attributeName: Facilities Nearby
+    attributeDetails: "\u2022 ATM/Banking  <br>\u2022 Dobi "
+  - attributeName: Internet Facilities
+    attributeDetails: "\u2022 Free WiFi"
+  - attributeName: Business Facilities
+    attributeDetails: "\u2022 Meeting Facilities"
+  - attributeName: Family Room
+    attributeDetails: 'Breakfast included for 1 pax '

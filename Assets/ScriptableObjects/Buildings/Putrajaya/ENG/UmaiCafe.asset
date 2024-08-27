@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2df0280c934b48bebc9a2fa0690d88c, type: 3}
+  m_Name: UmaiCafe
+  m_EditorClassIdentifier: 
+  mainImage: {fileID: 21300000, guid: 46e741bd6a8084daf967286bea367a04, type: 3}
+  name: Umai Cafe
+  attributes:
+  - attributeName: Location
+    attributeDetails: Bangunan ANJUNG Alaf BARU 62675 Wilayah Persekutuan Putrajaya
+      Malaysia
+  - attributeName: Operation Hours
+    attributeDetails: 'Tue-Sun: 9:00AM - 10:30PM'
+  - attributeName: Email
+    attributeDetails: umaic4fe@gmail.com
+  - attributeName: Menu & Prices
+    attributeDetails: "\u2022 Bread + chicken crumbs RM9.50  <br>\u2022 Yellow handcuff
+      chicken RM10.5  <br>\u2022 U.S. roasted rice RM9.50  <br>\u2022 Say RM45  
+      <br>\u2022 The concentrated milk RM2.50  <br>\u2022 THE C MILK CAIR RM2.30 
+      <br>\u2022 THE O 2.30  <br>\u2022 THE O LIMAU 2.50"

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2df0280c934b48bebc9a2fa0690d88c, type: 3}
+  m_Name: MasjidAgungTangahSawah
+  m_EditorClassIdentifier: 
+  mainImage: {fileID: 21300000, guid: 3daf7774bb76b416e8857e46ce8741c0, type: 3}
+  name: Masjid Agung Tangah Sawah
+  attributes:
+  - attributeName: Location
+    attributeDetails: Jl. Syech Arrasuli No.75b, Aur Tajungkang Tengah Sawah, Kec.
+      Guguk Panjang, Kota Bukittinggi, Sumatera Barat 26138, Indonesia
+  - attributeName: Operation Hours
+    attributeDetails: 24 hrs
+  - attributeName: History
+    attributeDetails: 'The Tangah Sawah Grand Mosque''s actual founding date is unknown.
+      However, before it became a magnificent mosque, it was known as a jamik mosque,
+      which was the centre of Islamic holiday celebrations for the inhabitants of
+      Nagari. Kampung Tangah Sawah is the name given to the area surrounding this
+      mosque. As the name implies, the village is nestled in the centre of rice fields.
+      Tangah Sawah Village was previously part of the Nagari Kurai Limo Jorong region,
+      which evolved into the modern Bukittinggi area. Tangah Sawah Village has grown
+      in population as a result of the community''s economic development. There are
+      no rice fields left. In truth,  Not only is the area surrounding the mosque
+      becoming more congested, but its appearance has also altered. The mosque appears
+      to have two domes: one huge in the centre and one on either side of the mihrab.
+      Unfortunately, there is no information on when this adjustment occurred. Major
+      changes occurred in 1976. This mosque had a comprehensive renovation before
+      becoming what it is now. The structure was enlarged and updated to two stories.
+      Former Indonesian Vice President Mohammad Hatta laid the first stone for its
+      construction on August 13, 1976.The Tangah Sawah Grand Mosque holds significant
+      value for the Bukittinggi community. Because of its central location, this
+      mosque is never empty.  This is assisted by the mosque''s big parking area,
+      which can handle a significant number of vehicles. Indeed, the city transport
+      terminus in front of the mosque can be vacated for parking if it is not accommodated.'
